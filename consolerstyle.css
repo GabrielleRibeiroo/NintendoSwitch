@@ -165,7 +165,9 @@ h1 {
 
 }
 
-footer>p {
+
+header>p {
+    background-attachment: scroll;
     background-color: rgb(230, 0, 18);
     padding: 40px;
     text-align: center;
